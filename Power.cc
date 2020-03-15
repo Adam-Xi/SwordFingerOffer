@@ -24,3 +24,4 @@ public:
         return exponent < 0 ? 1 / res : res;
     }
 };
+
