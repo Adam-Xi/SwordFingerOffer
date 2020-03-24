@@ -32,6 +32,6 @@ public:
     }
 
 private:
-    stack<int> stack1;  //压栈的栈
+    std::stack<int> stack1;  //压栈的栈
     stack<int> stack2;  //出栈的栈
 };
