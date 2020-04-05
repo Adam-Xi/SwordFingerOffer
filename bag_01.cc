@@ -10,6 +10,8 @@
 #include <iostream>
 #include <cstring>
 using namespace std;
+
+
 const int N = 20;
  
 int v[N] = {0, 8, 10, 6, 3, 7, 2};
