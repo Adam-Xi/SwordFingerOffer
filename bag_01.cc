@@ -11,11 +11,11 @@
 #include <cstring>
 using namespace std;
 
-
 const int N = 20;
  
 int v[N] = {0, 8, 10, 6, 3, 7, 2};
 int w[N] = {0, 4, 6, 2, 2, 5, 1};
+
 int x[N];
 int m[N][N];
 int c = 12;
